@@ -1,0 +1,17 @@
+[06-Nov-2024 04:33:57 UTC] PHP Parse error:  syntax error, unexpected token ")" in /Users/robbiecarragher/Local Sites/university/app/public/wp-content/themes/university-theme/index.php on line 3
+[06-Nov-2024 04:34:16 UTC] PHP Parse error:  syntax error, unexpected token ")" in /Users/robbiecarragher/Local Sites/university/app/public/wp-content/themes/university-theme/index.php on line 3
+[06-Nov-2024 04:35:01 UTC] PHP Parse error:  syntax error, unexpected token "=" in /Users/robbiecarragher/Local Sites/university/app/public/wp-content/themes/university-theme/index.php on line 6
+[06-Nov-2024 04:35:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "hey" in /Users/robbiecarragher/Local Sites/university/app/public/wp-content/themes/university-theme/index.php:6
+Stack trace:
+#0 /Users/robbiecarragher/Local Sites/university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/robbiecarragher/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/robbieca...')
+#2 /Users/robbiecarragher/Local Sites/university/app/public/index.php(17): require('/Users/robbieca...')
+#3 {main}
+  thrown in /Users/robbiecarragher/Local Sites/university/app/public/wp-content/themes/university-theme/index.php on line 6
+[15-Nov-2024 21:48:47 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/robbiecarragher/Local Sites/university/app/public/wp-content/themes/university-theme/functions.php on line 6
+[15-Nov-2024 21:48:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/robbiecarragher/Local Sites/university/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[15-Nov-2024 21:48:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/robbiecarragher/Local Sites/university/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[15-Nov-2024 21:50:47 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/robbiecarragher/Local Sites/university/app/public/wp-content/themes/university-theme/functions.php on line 7
+[15-Nov-2024 21:52:48 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/robbiecarragher/Local Sites/university/app/public/wp-content/themes/university-theme/functions.php on line 7
+[16-Nov-2024 00:35:24 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/robbiecarragher/Local Sites/university/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[16-Nov-2024 00:52:17 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/robbiecarragher/Local Sites/university/app/public/wp-includes/class-wp-customize-widgets.php on line 905

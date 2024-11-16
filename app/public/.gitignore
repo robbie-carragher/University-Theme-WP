@@ -1,0 +1,30 @@
+# Ignore WordPress core files
+wp-admin/
+wp-includes/
+
+# Ignore user-generated content
+wp-content/uploads/
+wp-content/upgrade/
+
+# Ignore configuration and sensitive files
+wp-config.php
+wp-config-sample.php
+*.sql
+*.log
+debug.log
+*.pot
+
+# Ignore cache and temporary files
+.sass-cache/
+*.DS_Store
+Thumbs.db
+
+# Ignore Flywheel specific files
+../sql/         # Local SQL dumps
+../logs/        # Logs created by Local by Flywheel
+../conf/        # Local by Flywheel configuration files
+
+# Ignore node modules and development artifacts
+node_modules/
+npm-debug.log
+yarn-error.log
