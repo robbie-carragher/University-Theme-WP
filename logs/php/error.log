@@ -15,3 +15,6 @@ Stack trace:
 [15-Nov-2024 21:52:48 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/robbiecarragher/Local Sites/university/app/public/wp-content/themes/university-theme/functions.php on line 7
 [16-Nov-2024 00:35:24 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/robbiecarragher/Local Sites/university/app/public/wp-includes/class-wp-customize-widgets.php on line 905
 [16-Nov-2024 00:52:17 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/robbiecarragher/Local Sites/university/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[16-Nov-2024 17:47:22 UTC] PHP Parse error:  syntax error, unexpected identifier "add_theme_support" in /Users/robbiecarragher/Local Sites/university/app/public/wp-content/themes/university-theme/functions.php on line 15
+[16-Nov-2024 17:47:23 UTC] PHP Parse error:  syntax error, unexpected identifier "add_theme_support" in /Users/robbiecarragher/Local Sites/university/app/public/wp-content/themes/university-theme/functions.php on line 15
+[16-Nov-2024 17:47:24 UTC] PHP Parse error:  syntax error, unexpected identifier "add_theme_support" in /Users/robbiecarragher/Local Sites/university/app/public/wp-content/themes/university-theme/functions.php on line 15
